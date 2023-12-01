@@ -1,0 +1,98 @@
+{
+    "XMLName": {
+        "Space": "",
+        "Local": ""
+    },
+    "Properties": {
+        "XMLName": {
+            "Space": "",
+            "Local": ""
+        },
+        "Tabs": null,
+        "Spacing": {
+            "XMLName": {
+                "Space": "",
+                "Local": ""
+            },
+            "Val": 0,
+            "BeforeLines": 0,
+            "Before": 0,
+            "Line": 500,
+            "LineRule": "exact"
+        },
+        "Ind": null,
+        "Justification": {
+            "XMLName": {
+                "Space": "",
+                "Local": ""
+            },
+            "Val": "center"
+        },
+        "Shade": null,
+        "Kern": null,
+        "Style": null,
+        "TextAlignment": null,
+        "AdjustRightInd": null,
+        "SnapToGrid": null,
+        "Kinsoku": null,
+        "OverflowPunct": null,
+        "RunProperties": {
+            "XMLName": {
+                "Space": "",
+                "Local": ""
+            },
+            "Fonts": {
+                "XMLName": {
+                    "Space": "",
+                    "Local": ""
+                },
+                "ASCII": "",
+                "EastAsia": "",
+                "HAnsi": "",
+                "Hint": "eastAsia"
+            },
+            "Bold": {
+                "XMLName": {
+                    "Space": "",
+                    "Local": ""
+                }
+            },
+            "ICs": null,
+            "Italic": null,
+            "Highlight": null,
+            "Color": null,
+            "Size": {
+                "XMLName": {
+                    "Space": "",
+                    "Local": ""
+                },
+                "Val": "36"
+            },
+            "SizeCs": {
+                "XMLName": {
+                    "Space": "",
+                    "Local": ""
+                },
+                "Val": "36"
+            },
+            "Spacing": null,
+            "RunStyle": null,
+            "Style": null,
+            "Shade": null,
+            "Kern": null,
+            "Underline": null,
+            "VertAlign": null,
+            "Strike": null
+        }
+    },
+    "Children": [
+        {
+            "XMLName": {
+                "Space": "",
+                "Local": ""
+            },
+            "XMLSpace": "",
+            "Text": "test=="
+        }
+    ]
+}
